@@ -50,7 +50,7 @@ I'm always open to networking, collaborating and exchanging ideas. Whether it's 
   I am currently learning <strong>TypeScript</strong>, <strong>Java</strong>, and <strong>C++</strong> to improve my performance, organization, and the ability to develop more robust systems.
 </p>
 
-<!-- BACKEND -->
+<!-- BACK-END -->
 <h3 align="center">Backend & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
