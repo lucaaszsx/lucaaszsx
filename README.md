@@ -4,19 +4,23 @@
 </h1>
 
 <p align="center">
-  <img src="./assets/snake.svg" alt="GitHub snake animation">
+  <img src="./assets/snake.svg" alt="GitHub snake animation" width="100%">
 </p>
 
 <p align="center">
-  <strong>Hello! I'm Lucas</strong> — a 15-year-old self-taught developer from Brazil. My goal is to become a skilled software engineer, constantly learning best practices, design patterns, and system architecture.
+  <strong>Hi, I'm Lucas!</strong> A 15-year-old self-taught developer from Brazil. I'm currently studying <strong>IT</strong>, and I'm planning to major in <strong>Software Engineering</strong>.
 </p>
 
 <p align="center">
-  I'm passionate about <strong>software development</strong>, especially in <strong>backend engineering</strong>, <strong>automation</strong>, and building <strong>scalable solutions</strong>.
+  I developed an interest in technology at an early age, and since 2021/22, I’ve been diving deeper into programming. Ever since, I’ve been committed to continuous learning — driven by curiosity and the desire to build meaningful and impactful solutions.
 </p>
 
 <p align="center">
-  I focus on creating <strong>APIs</strong>, <strong>bots</strong>, and <strong>developer tools</strong> while continuously embracing new challenges and learning opportunities.
+  I focus mainly on <strong>backend development</strong>, working with <strong>REST APIs</strong>, <strong>automation</strong>, and practical tools. I also enjoy developing libraries and utilities for platforms like <strong>NPM</strong>.
+</p>
+
+<p align="center">
+  Beyond high-level development, I have a growing interest in <strong>low-level programming</strong>, exploring how systems operate closer to the hardware. I’m also into hardware itself — especially <strong>device maintenance and repair</strong>.
 </p>
 
 ---
@@ -24,13 +28,16 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/lucaaszsx"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-  <a href="https://discord.com/users/1036018691562803260"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.instagram.com/lucas.__zsx?igsh=MTJlZ2NyZDY4ZGdpaw=="><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.tiktok.com/@lucas._zsx?_t=ZM-8wUqKbAoNtQ&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Discord"></a>
+  <a href="mailto:jlucasmelob558@gmail.com"><img src="https://img.shields.io/badge/jlucasmelob558-000000?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.instagram.com/lucas.____zsx?igsh=MTJlZ2NyZDY4ZGdpaw=="><img src="https://img.shields.io/badge/lucaas.__zsx-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://discord.com/users/1036018691562803260"><img src="https://img.shields.io/badge/lucas._zsx-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.tiktok.com/@lucas._zsx?_t=ZM-8wUqKbAoNtQ&_r=1"><img src="https://img.shields.io/badge/@lucas._zsx-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
-I'm always open to networking, collaborating and exchanging ideas. Whether it's to talk about projects, share knowledge or just say hi, feel free to reach out to me on any of the platforms above.
+<p align="center">
+  I'm always open to connecting, collaborating, and exchanging ideas.  
+  Whether you want to talk about projects, share insights, or just say hi — feel free to reach out through any of the platforms above!
+</p>
 
 ---
 
@@ -39,75 +46,87 @@ I'm always open to networking, collaborating and exchanging ideas. Whether it's 
 <!-- LANGUAGES -->
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=fff" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff" />
+  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 <p align="center">
-  I am proficient in <strong>JavaScript</strong> and <strong>Python</strong>, which I frequently use to develop bots, automations, and APIs.  
-  I am currently learning <strong>TypeScript</strong>, <strong>Java</strong>, and <strong>C++</strong> to improve my performance, organization, and the ability to develop more robust systems.
+  I have solid experience with <strong>JavaScript</strong> and <strong>Python</strong>, mainly using them for developing bots, automation tools, and APIs.  
+  I'm currently learning <strong>TypeScript</strong>, <strong>Java</strong>, and <strong>C</strong> to deepen my understanding of software architecture and improve code quality and performance.
 </p>
 
 <!-- BACK-END -->
 <h3 align="center">Backend & Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=fff" />
-  <img src="https://img.shields.io/badge/WebSockets-003B57?style=flat-square&logo=websocket&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff" />
+  <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 <p align="center">
-  My focus is on <strong>backend development</strong>, mainly using <strong>Node.js</strong> and <strong>Express.js</strong>.  
-  I work with REST APIs, WebSockets, and tools like Git and Postman for version control and testing.  
-  I also use VS Code as my main development environment.
+  My main focus is on <strong>backend development</strong> using <strong>Node.js</strong> and <strong>Express.js</strong>.  
+  I work with REST APIs and WebSockets, and use tools like Git for version control and Postman for testing.  
+  <strong>VS Code</strong> is my go-to code editor.
 </p>
 
 <!-- DATABASES -->
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SQL-%2300758F?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 <p align="center">
-  I commonly use <strong>MongoDB</strong> in my projects, especially for storing data from bots and web applications.  
-  I’m currently learning <strong>MySQL</strong> and improving my <strong>SQL</strong> skills to better understand relational databases and query optimization.
+  I frequently use <strong>MongoDB</strong> for storing data in my personal projects, especially in bot and web app development.  
+  I'm currently focusing on learning <strong>MySQL</strong> and improving my <strong>SQL</strong> skills to better handle relational databases and write more efficient queries.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaaszsx&show_icons=true&theme=transparent&hide_title=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaszsx&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaaszsx&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lucaaszsx&theme=transparent&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaszsx&layout=compact&theme=transparent&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lucaaszsx&theme=transparent&hide_border=true)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucaaszsx&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<details>
+  <summary align="center">📈 Show Contribution Graph</summary>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaaszsx&theme=github-compact&hide_border=true" alt="Activity Graph" width="100%" />
+  </p>
+</details>
 
 ---
 
 ## 📂 Contributions & Open Source
 
-I’m passionate about open source and actively contribute to projects that simplify development and solve real problems.  
-Collaboration and shared knowledge are at the core of how I grow and give back to the community.
+<p align="center">
+  I'm passionate about open source and love building tools that solve real-world problems and simplify development workflows. <br>
+  For me, collaboration and sharing knowledge are essential parts of learning and growing as a developer.
+</p>
 
-- Contributed to **open-source libraries** and **automations**
-- Developed tools that **automate repetitive tasks** and **optimize performance**
-- Frequently explore and engage with **new technologies and community-driven initiatives**
+<ul align="left">
+  <li>Contributed to various <strong>open-source libraries</strong>, especially in <strong>automation</strong> and <strong>backend tools</strong></li>
+  <li>Created solutions to <strong>automate repetitive tasks</strong>, boost <strong>developer productivity</strong>, and improve <strong>system performance</strong></li>
+  <li>Actively explore and engage with <strong>new technologies</strong>, <strong>developer communities</strong>, and <strong>collaborative initiatives</strong></li>
+</ul>
 
-Feel free to explore my repositories, open issues, or submit a pull request — I’m always open to meaningful collaboration.
+<p align="center">
+  Feel free to check out my repositories, open an issue, or submit a pull request — I'm always open to building things together!
+</p>
 
 ## 🙌 Let's Connect!
 
-If you like what you see, feel free to **star** my repositories, **follow** me on GitHub, or **reach out** to collaborate or chat about exciting projects.  
-I’m always open to new opportunities, ideas, and conversations!
+<p align="center">
+  If you like what you see, feel free to <strong>star</strong> my repositories, <strong>follow</strong> me on GitHub, or <strong>reach out</strong> to collaborate or chat about exciting projects. <br>
+  I'm always open to new opportunities, ideas, and conversations!
+</p>
