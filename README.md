@@ -90,12 +90,12 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaaszsx&show_icons=true&theme=transparent&hide_title=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaszsx&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaaszsx&show_icons=true&theme=transparent&hide_title=true&hide_border=true" alt="GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaszsx&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucaaszsx&theme=transparent&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=lucaaszsx&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 <details>
