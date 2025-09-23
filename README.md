@@ -89,20 +89,44 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaaszsx&show_icons=true&theme=transparent&hide_title=true&hide_border=true" alt="GitHub Stats" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaszsx&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="100%" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucaaszsx&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+  <!-- General stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=lucaaszsx&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=9f9f9f" 
+    alt="GitHub Stats" 
+    height="180px" 
+  />
+
+  <!-- Most used languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaszsx&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=58a6ff&text_color=9f9f9f" 
+    alt="Top Languages" 
+    height="180px" 
+  />
+
+</div>
+
+<div align="center">
+
+  <!-- Streaks -->
+  <img 
+    src="https://streak-stats.demolab.com?user=lucaaszsx&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" 
+    alt="GitHub Streak" 
+    width="95%" 
+  />
+
+</div>
 
 <details>
   <summary align="center">📈 Show Contribution Graph</summary>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaaszsx&theme=github-compact&hide_border=true" alt="Activity Graph" width="100%" />
-  </p>
+  <div align="center">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=lucaaszsx&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" 
+      alt="Activity Graph" 
+      width="95%" 
+    />
+  </div>
 </details>
 
 ---
