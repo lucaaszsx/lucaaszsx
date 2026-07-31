@@ -62,6 +62,18 @@ TypeScript using LangChain.
 
 ## GitHub Insights
 
+<p align="center">
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=lucaaszsx&show_icons=true&hide_border=true"
+        alt="GitHub statistics"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaszsx&layout=compact&hide_border=true"
+        alt="Most used languages"
+    />
+</p>
 
 ## Contact
 
