@@ -1,5 +1,9 @@
 # Howdy! <img src="./assets/howdy.png" alt="👋" height="40" valign="middle">
 
+<p align="center">
+  <img src="assets/snake.svg" alt="Contribution Snake" />
+</p>
+
 I'm Lucas, a **programming enthusiast** from Brazil. I primarily focus on
 **backend
 development**, building **REST APIs**, but I also enjoy **automation** and **low-level
