@@ -1,7 +1,7 @@
 # Howdy! <img src="./assets/howdy.png" alt="👋" height="40" valign="middle">
 
 <p align="center">
-  <img src="assets/snake.svg" alt="Contribution Snake" />
+    <img src="assets/snake.svg" alt="Contribution Snake" />
 </p>
 
 I'm Lucas, a **programming enthusiast** from Brazil. I primarily focus on
